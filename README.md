@@ -1,2 +1,2 @@
 # Cat_or_Dog
-Image classification with CNN
+Use TensorFlow dataset to image classification with CNN
